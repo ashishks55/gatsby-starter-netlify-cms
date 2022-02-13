@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Egoalchamist
+title: Ego.Alchemist
 image: /img/white.jpg
 heading: Great coffee with a conscience
-subheading: Ego Alchamy Coach - Ascension Support, Spiritual Guidance & Holistic Healing
+subheading: Ascension Support | Spiritual Guidance | Holistic Healing
 mainpitch:
   title: Why Egoalchamist?
   description: >
