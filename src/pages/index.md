@@ -5,7 +5,7 @@ image: /img/uqdymg-min.jpg
 heading: Great coffee with a conscience
 subheading: Ego Alchamy Coach - Ascension Support, Spiritual Guidance & Holistic Healing
 mainpitch:
-  title: Why Kaldi
+  title: Why Egoalchamist?
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
