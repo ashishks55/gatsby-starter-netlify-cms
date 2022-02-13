@@ -2,10 +2,10 @@
 templateKey: index-page
 title: Ego.Alchemist
 image: /img/white.jpg
-heading: Great coffee with a conscience
+heading: Why Egoalchemist?
 subheading: Ascension Support | Spiritual Guidance | Holistic Healing
 mainpitch:
-  title: Why Egoalchamist?
+  title: What is Egoalchemist?
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
