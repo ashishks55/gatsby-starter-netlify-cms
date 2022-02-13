@@ -2,13 +2,14 @@
 
 // Config vars
 // Kaldi logo brand color: #FD461E
-$kaldi-red: #D64000
+$kaldi-red: #423362
 $kaldi-red-invert: #fff
 
 $primary: $kaldi-red
 $primary-invert: $kaldi-red-invert
 $body-color: #333
 $black: #2b2523
+$link: #423362
 
 .navbar .navbar-menu
   box-shadow: none !important
@@ -28,6 +29,8 @@ $black: #2b2523
     margin-bottom: 1.5rem
     margin-top: 0
 
+.subtitle
+  line-height: 2rem !important
 // Helper Classes
 .full-width-image-container
   width: 100vw
@@ -61,10 +64,10 @@ $black: #2b2523
     border-radius: .25rem
     text-decoration: none
     font-weight: 700
-    color: #CC3700
+    color: #423362
     text-align: center
-    -webkit-box-shadow: inset 0 0 0 2px #CC3700
-    box-shadow: inset 0 0 0 2px #f40
+    -webkit-box-shadow: inset 0 0 0 2px #423362
+    box-shadow: inset 0 0 0 2px #423362
     -webkit-transition: all .15s ease
     transition: all .15s ease
 
@@ -81,8 +84,9 @@ $black: #2b2523
 .navbar-brand .navbar-item.logo
   padding: 0 1rem
 footer.footer
-  padding: 3rem 0rem 0rem
+  padding: 3rem 0rem 3rem 0rem
   background-color: transparent
+  border-top: 2px solid #423362
 
 //Menu overrides
 $menu-item-color: $white-ter
@@ -114,13 +118,15 @@ $menu-label-color: $white-ter
 
 // blog roll
 .blog-list-item.is-featured
-  background-color: #d6400033
+  background-color: #8a77b333
 .blog-list-item header
   display: flex
   margin-bottom: 1em
 .blog-list-item .featured-thumbnail
   flex-basis: 35%
   margin: 0 1.5em 0 0
+.blog-list-item
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px
 
 
 @import "~bulma"
@@ -138,3 +144,26 @@ $menu-label-color: $white-ter
     text-align: center
     max-width: 70%
     margin: 0 0 1em
+
+
+
+.has-text-purple a
+  color: #423362 !important
+
+
+.card
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px
+
+.latest-posts
+    margin-left: -0.2rem
+    margin-top: 5rem
+
+.date
+  margin-top: 1rem
+  font-weight: 600
+
+.notification
+  background-color: white
+
+.line-height-2
+  line-height: 2rem !important
